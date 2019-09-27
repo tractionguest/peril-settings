@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "ignored_repos": [
+      ".github",
+      "FlutterAuthPackage",
+      "apigee_soap_rest_soap",
+      "cordova-brother-label-printer",
+      "deploy_machine",
+      "fake_avocado",
+      "guest-api",
+      "guest-api-automation",
+      "guest-auth",
+      "guest-connect",
+      "guest-dart-sdk",
+      "guest-docker",
+      "guest-email-template-blocks",
+      "guest-experience-editor",
+      "guest-flux",
+      "guest-flux-form",
+      "guest-flux-token-field",
+      "guest-infra",
+      "guest-io",
+      "guest-kiosk",
+      "guest-kiosk-build-script",
+      "guest-mobile-automation",
+      "guest-outlook-addin",
+      "guest-qa-automation",
+      "guest-register",
+      "guest-register-watch",
+      "guest-release-testing",
+      "guest-theme-svgs",
+      "guest-tools",
+      "guest-ui-automation",
+      "guest-user-app",
+      "hey-danillo",
+      "lenel-sdk",
+      "multifog",
+      "peril-settings",
+      "prawn-templates",
+      "rubocop"
+    ]
+  },
+  "rules": {
+    "pull_request.opened": "tractionguest/peril-settings@dangerfiles/all-prs.ts"
+  },
+  "repos": {
+
+  }
+}
