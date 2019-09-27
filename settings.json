@@ -41,8 +41,7 @@
     ]
   },
   "rules": {
-    "pull_request.opened": "tractionguest/peril-settings@dangerfiles/all-prs.ts",
-    "pull_request.synchronize": "tractionguest/peril-settings@dangerfiles/all-prs.ts"
+    "pull_request": "tractionguest/peril-settings@dangerfiles/all-prs.ts"
   },
   "repos": {
 
